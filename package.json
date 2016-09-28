@@ -1,8 +1,8 @@
 {
   "name": "datatables-select",
-  "version": "1.2.0-rc.1",
+  "version": "1.2.0-rc.2",
   "description": "select extension for datatables",
-  "main": "dataTables.select.js",
+  "main": "js/dataTables.select.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
